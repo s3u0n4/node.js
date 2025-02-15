@@ -9,7 +9,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2",
+    "uuid-apikey": "^1.5.3"
   },
   "devDependencies": {
     "nodemin": "^1.0.1",
